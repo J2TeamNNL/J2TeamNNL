@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="PHPStorm" width="30px" src="https://pbs.twimg.com/profile_images/1206598279439495168/8FUu0Muv_400x400.jpg" />
+<img align="left" alt="PHPStorm" width="26px" src="https://pbs.twimg.com/profile_images/1206598279439495168/8FUu0Muv_400x400.jpg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" />
