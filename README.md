@@ -49,3 +49,7 @@
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
+
+
+[J2TeamNNL]: https://j2teamnnl.com/
+[Facebook]: https://fb.me/j2teamnnl
