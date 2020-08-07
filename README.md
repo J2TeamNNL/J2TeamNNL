@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
