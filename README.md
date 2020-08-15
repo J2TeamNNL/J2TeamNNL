@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I share... a lot!
 
 <br />
-
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 ---
 
 ### Languages and Tools:
@@ -35,6 +36,7 @@
 - [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
 - [Sau 1 vài ngày mất tích...](https://j2teamnnl.blogspot.com/2019/08/sau-1-vai-ngay-mat-tich.html)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://j2teamnnl.blogspot.com)
 
 ---
 
@@ -48,7 +50,11 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
 
 
