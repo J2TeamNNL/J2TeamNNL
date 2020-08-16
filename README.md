@@ -52,13 +52,13 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-212-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 88 Contributions in 2020
+> 🏆 90 Contributions in 2020
  > 
-> 📦 Used 430 Bytes in GitHub's Storage 
+> 📦 Used 435 Bytes in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
