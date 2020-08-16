@@ -58,7 +58,7 @@
 
 > 🏆 90 Contributions in the year 2020
  > 
-> 📦 447 Bytes Used in Github's Storage 
+> 📦 449 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,10 +93,12 @@ Sunday       35 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 14 mins       ███████████████████░░░░░░   77.89% 
+Blade Template           55 mins             █████░░░░░░░░░░░░░░░░░░░░   22.11%
 
 🔥 Code Editors: 
-No Activity Tracked This Week
+PhpStorm                 4 hrs 4 mins        ████████████████████████░   97.99% 
+Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 ```
 
