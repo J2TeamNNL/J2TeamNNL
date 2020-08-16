@@ -1,4 +1,4 @@
-name: Development Stats
+name: Update Readme Development Stats
 
 on:
   schedule:
