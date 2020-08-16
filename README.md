@@ -52,19 +52,19 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-233-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 88 Contributions in 2020
+> 🏆 90 Contributions in the year 2020
  > 
-> 📦 Used 437 Bytes in GitHub's Storage 
+> 📦 440 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 29 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm an Early 🐤** 
 
@@ -75,7 +75,7 @@
 🌙 Night      34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
@@ -89,13 +89,13 @@ Sunday       35 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Code Editors: 
 No Activity Tracked This Week
 
 ```
