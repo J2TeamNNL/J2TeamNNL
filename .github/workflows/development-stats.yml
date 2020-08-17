@@ -1,4 +1,4 @@
-name: Update Development Stats
+name: Realtime Development Stats
 
 on:
   schedule:
