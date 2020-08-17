@@ -1,4 +1,4 @@
-name: Update Readme Development Stats
+name: Development Stats
 
 on:
   schedule:
@@ -17,3 +17,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
