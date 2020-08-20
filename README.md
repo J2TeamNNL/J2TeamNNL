@@ -56,15 +56,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 99 Contributions in the year 2020
+> 🏆 99 Contributions in the Year 2020
  > 
 > 📦 510 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public repositories
+> 📜 31 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -89,7 +89,7 @@ Sunday       35 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -98,7 +98,7 @@ Blade Template           1 hr 44 mins        ████░░░░░░░�
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
-🔥 Code Editors: 
+🔥 Editors: 
 PhpStorm                 8 hrs 43 mins       ██████████████████████░░░   90.74% 
 Sublime Text             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
 
