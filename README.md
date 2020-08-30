@@ -52,7 +52,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
 **🐱 My Github Data** 
 
