@@ -93,10 +93,10 @@ Sunday       49 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
