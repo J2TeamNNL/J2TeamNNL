@@ -12,23 +12,23 @@
 ---
 
 ### Tools:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg"  style='background-color:white' />
 <br>
 
 ### Libraries and Frameworks:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/nuxt-dot-js.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/nuxt-dot-js.svg"  style='background-color:white' />
 <br>
 
 ### Databases:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg"  style='background-color:white' />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg"  style='background-color:white' />
 
 <br>
 <br>
@@ -59,7 +59,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My Github Data** 
 
@@ -76,22 +76,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    56 commits     ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-🌆 Daytime    81 commits     ████████░░░░░░░░░░░░░░░░░   34.62% 
-🌃 Evening    57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.36% 
-🌙 Night      40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09%
+🌞 Morning    56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.35% 
+🌆 Daytime    77 commits     ████████░░░░░░░░░░░░░░░░░   33.48% 
+🌃 Evening    57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+🌙 Night      40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Tuesday      59 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-Wednesday    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
-Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Saturday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   20.94%
+Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+Tuesday      55 commits     ██████░░░░░░░░░░░░░░░░░░░   23.91% 
+Wednesday    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
+Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
+Saturday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   21.3%
 
 ```
 
