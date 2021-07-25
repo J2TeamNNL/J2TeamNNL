@@ -114,7 +114,7 @@ Sublime Text             2 hrs 56 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
