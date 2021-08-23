@@ -114,7 +114,7 @@ WebStorm                 9 hrs 18 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
