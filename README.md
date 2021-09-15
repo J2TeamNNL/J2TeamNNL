@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SQL - Buổi 2 - Những câu lệnh cơ bản](https://www.youtube.com/watch?v=8T0edb1AYUg)
 - [SQL - Buổi 1](https://www.youtube.com/watch?v=-OCOG15SD1w)
 - [Giới thiệu CLB Lập trình](https://www.youtube.com/watch?v=JL6Rnav6cwQ)
 - [Phiên bản 3](https://www.youtube.com/watch?v=4mnEEnLgr2E)
 - [Tìm bài đăng của 1 người bất kỳ](https://www.youtube.com/watch?v=PyvfvB-l7LA)
-- [Filter Photo](https://www.youtube.com/watch?v=5vnjtl5S0Ig)
 <!-- YOUTUBE:END -->
 
 ---
