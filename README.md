@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SQL - Buổi 4 - Những hàm cơ bản](https://www.youtube.com/watch?v=A0qfh0mEoLE)
 - [SQL - Buổi 3 - Những ràng buộc](https://www.youtube.com/watch?v=d8-KYLxMPpM)
 - [SQL - Buổi 2 - Những câu lệnh cơ bản](https://www.youtube.com/watch?v=8T0edb1AYUg)
 - [SQL - Buổi 1](https://www.youtube.com/watch?v=-OCOG15SD1w)
 - [Giới thiệu CLB Lập trình](https://www.youtube.com/watch?v=JL6Rnav6cwQ)
-- [Phiên bản 3](https://www.youtube.com/watch?v=4mnEEnLgr2E)
 <!-- YOUTUBE:END -->
 
 ---
