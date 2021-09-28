@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [SQL - Buổi 5 - Những hàm nhóm và thống kê](https://www.youtube.com/watch?v=1koJCVv8Os4)
+- [SQL - Buổi 6 - Những ràng buộc khoá](https://www.youtube.com/watch?v=a0ezTyvEhY8)
 - [SQL - Buổi 4 - Những hàm cơ bản](https://www.youtube.com/watch?v=A0qfh0mEoLE)
 - [SQL - Buổi 3 - Những ràng buộc](https://www.youtube.com/watch?v=d8-KYLxMPpM)
 - [SQL - Buổi 2 - Những câu lệnh cơ bản](https://www.youtube.com/watch?v=8T0edb1AYUg)
-- [SQL - Buổi 1](https://www.youtube.com/watch?v=-OCOG15SD1w)
 <!-- YOUTUBE:END -->
 
 ---
