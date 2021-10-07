@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình Web cơ bản - HTML - Buổi 1](https://www.youtube.com/watch?v=wiYWbm3r48A)
+- [SQL chuyên sâu - Buổi 1 - Index & View](https://www.youtube.com/watch?v=uJn89Ua7D8M)
 - [SQL - Buổi 7 - Nối bảng (P2)](https://www.youtube.com/watch?v=rwMLTX7vKrE)
 - [SQL - Buổi 7 - Nối bảng (P1)](https://www.youtube.com/watch?v=6OQhvSQ1ZEo)
 - [SQL - Buổi 6 - Những ràng buộc khoá](https://www.youtube.com/watch?v=a0ezTyvEhY8)
-- [SQL - Buổi 5 - Những hàm nhóm và thống kê](https://www.youtube.com/watch?v=1koJCVv8Os4)
 <!-- YOUTUBE:END -->
 
 ---
