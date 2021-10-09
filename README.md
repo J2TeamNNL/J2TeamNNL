@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [SQL chuyên sâu - Buổi 1 - Index & View](https://www.youtube.com/watch?v=uJn89Ua7D8M)
 - [Lập trình Web cơ bản - HTML - Buổi 2 - Bảng](https://www.youtube.com/watch?v=Y0mgyEp8kFI)
+- [SQL chuyên sâu - Buổi 1 - Index & View](https://www.youtube.com/watch?v=uJn89Ua7D8M)
 - [Lập trình Web cơ bản - HTML - Buổi 1](https://www.youtube.com/watch?v=wiYWbm3r48A)
 - [SQL - Buổi 7 - Nối bảng (P2)](https://www.youtube.com/watch?v=rwMLTX7vKrE)
 - [SQL - Buổi 7 - Nối bảng (P1)](https://www.youtube.com/watch?v=6OQhvSQ1ZEo)
