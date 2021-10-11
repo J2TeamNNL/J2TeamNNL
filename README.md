@@ -65,7 +65,7 @@
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 3.3 kB Used in GitHub's Storage 
+> 📦 2.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,7 +115,7 @@ WebStorm                 1 hr 26 mins        ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/10/2021
+ Last Updated on 11/10/2021
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
