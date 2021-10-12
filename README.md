@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình Web cơ bản - HTML - Buổi 2 - Bảng](https://www.youtube.com/watch?v=Y0mgyEp8kFI)
-- [Lập trình Web cơ bản - HTML - Buổi 3 - Những thẻ thường gặp](https://www.youtube.com/watch?v=cSgY3RWqqNc)
 - [SQL chuyên sâu - Buổi 1 - Index & View](https://www.youtube.com/watch?v=uJn89Ua7D8M)
 - [Lập trình Web cơ bản - HTML - Buổi 1](https://www.youtube.com/watch?v=wiYWbm3r48A)
 - [SQL - Buổi 7 - Nối bảng (P2)](https://www.youtube.com/watch?v=rwMLTX7vKrE)
+- [SQL - Buổi 7 - Nối bảng (P1)](https://www.youtube.com/watch?v=6OQhvSQ1ZEo)
 <!-- YOUTUBE:END -->
 
 ---
