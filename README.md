@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SQL chuyên sâu - Buổi 4 - Trigger](https://www.youtube.com/watch?v=Oc-IlA-1jxc)
 - [Lập trình Web cơ bản - Buổi 7 - CSS - Pseudo & Selector](https://www.youtube.com/watch?v=qJusq22MRvA)
 - [Lập trình Web cơ bản - Buổi 6 - CSS - Layout](https://www.youtube.com/watch?v=dJ2K_5VaUgc)
 - [SQL chuyên sâu - Buổi 3 - Function](https://www.youtube.com/watch?v=AlOM-lbJ1t8)
 - [Lập trình Web cơ bản - Buổi 5 - CSS - Làm quen](https://www.youtube.com/watch?v=iSdXPJg6G9k)
-- [Lập trình Web cơ bản - Buổi 4 - HTML - Form](https://www.youtube.com/watch?v=8t9qLdrlAvA)
 <!-- YOUTUBE:END -->
 
 ---
