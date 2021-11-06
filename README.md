@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [SQL chuyên sâu - Buổi 5 - Trigger (Instead of)](https://www.youtube.com/watch?v=BRk36X7prK0)
+- [Lập trình Web cơ bản - Buổi 9 - JavaScript - Loop & Input](https://www.youtube.com/watch?v=9HG9MmtpE7Y)
 - [Lập trình Web cơ bản - Buổi 8 - JavaScript - Làm quen](https://www.youtube.com/watch?v=h4wTJgQxnJg)
 - [SQL chuyên sâu - Buổi 4 - Trigger (After)](https://www.youtube.com/watch?v=Oc-IlA-1jxc)
 - [Lập trình Web cơ bản - Buổi 7 - CSS - Pseudo & Selector](https://www.youtube.com/watch?v=qJusq22MRvA)
-- [Lập trình Web cơ bản - Buổi 6 - CSS - Layout](https://www.youtube.com/watch?v=dJ2K_5VaUgc)
 <!-- YOUTUBE:END -->
 
 ---
