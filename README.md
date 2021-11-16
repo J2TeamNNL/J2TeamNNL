@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình Web cơ bản - Buổi 11 - JavaScript - Regex](https://www.youtube.com/watch?v=nQcEK4HLoQs)
+- [Lập trình Web cơ bản - Buổi 11 - JavaScript - Validate Form](https://www.youtube.com/watch?v=uBanTLR3YeE)
 - [SQL chuyên sâu - Buổi 6 - Chữa bài tập &amp; Transaction](https://www.youtube.com/watch?v=xPllalzVL_4)
 - [Lập trình Web cơ bản - Buổi 10 - JavaScript - Array](https://www.youtube.com/watch?v=KjHtFIR79XI)
 - [Livecode - Lấy ra những bình luận chưa trả lời trên Teachable - JavaScript](https://www.youtube.com/watch?v=21sAAG9inYI)
-- [Lập trình Web cơ bản - Buổi 9 - JavaScript - Loop &amp; Input](https://www.youtube.com/watch?v=9HG9MmtpE7Y)
 <!-- YOUTUBE:END -->
 
 ---
