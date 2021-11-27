@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình Web cơ bản - Buổi 14 - PHP - Giới thiệu](https://www.youtube.com/watch?v=uEUa4qB97Kk)
-- [Lập trình Web cơ bản - Buổi 15 - PHP - Làm việc với Form](https://www.youtube.com/watch?v=AH9STS4sJSo)
 - [Lập trình Web cơ bản - Buổi 13 - JavaScript - DOM &amp; BOM &amp; Tools](https://www.youtube.com/watch?v=8QxwiQPrNHs)
 - [SQL chuyên sâu - Buổi cuối - Thi vấn đáp](https://www.youtube.com/watch?v=E6lizfokiWA)
 - [Lập trình Web cơ bản - Buổi 12 - JavaScript - Validate Form](https://www.youtube.com/watch?v=uBanTLR3YeE)
+- [Lập trình Web cơ bản - Buổi 11 - JavaScript - Regex](https://www.youtube.com/watch?v=nQcEK4HLoQs)
 <!-- YOUTUBE:END -->
 
 ---
