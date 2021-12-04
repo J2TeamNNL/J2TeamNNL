@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình Web cơ bản - Buổi 17 - PHP - CRUD &amp; Pagination &amp; Searching &amp; Hacking](https://www.youtube.com/watch?v=xXmCzhU0BNY)
+- [Lập trình Web cơ bản - Buổi 18 - PHP - Ôn tập &amp; layout](https://www.youtube.com/watch?v=Wlo5aQw2UeI)
 - [Lập trình Web cơ bản - Buổi 16 - PHP - CRUD](https://www.youtube.com/watch?v=63H58_jGDco)
 - [Lập trình Web cơ bản - Buổi 15 - PHP - Làm việc với Form](https://www.youtube.com/watch?v=AH9STS4sJSo)
 - [Lập trình Web cơ bản - Buổi 14 - PHP - Giới thiệu](https://www.youtube.com/watch?v=uEUa4qB97Kk)
-- [Lập trình Web cơ bản - Buổi 13 - JavaScript - DOM &amp; BOM &amp; Tools](https://www.youtube.com/watch?v=8QxwiQPrNHs)
 <!-- YOUTUBE:END -->
 
 ---
