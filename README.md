@@ -59,19 +59,17 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C127%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 34 Contributions in the Year 2021
+> 🏆 33 Contributions in the Year 2021
  > 
 > 📦 2.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -88,12 +86,12 @@
 
 ```text
 Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
-Tuesday      35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.71% 
+Tuesday      34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.12% 
 Wednesday    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
 Thursday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
 Friday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.3% 
 Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
-Sunday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.71%
+Sunday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.3%
 
 ```
 
