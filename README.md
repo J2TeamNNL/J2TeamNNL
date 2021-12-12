@@ -1,7 +1,7 @@
 ### Hi fellows 👋
 
 - 🔭 I’m currently working on [J2TeamNNL]
-- 💬 Ask me about every thing I learned
+- 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I share... a lot!
 
