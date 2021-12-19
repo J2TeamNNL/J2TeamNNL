@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lập trình Web cơ bản - Buổi 23 - PHP - Giỏ hàng](https://www.youtube.com/watch?v=1t9Hzq9_Rck)
 - [Lập trình Web cơ bản - Buổi 22 - PHP - Cookies](https://www.youtube.com/watch?v=27UPwj789E4)
 - [Lập trình Web cơ bản - Buổi 21 - PHP - Signing &amp; Hacking](https://www.youtube.com/watch?v=7pWAqw9XjVM)
 - [Đồ án Web cơ bản - Phân tích và thiết kế](https://www.youtube.com/watch?v=5o3BugEmhLk)
 - [Lập trình Web cơ bản - Buổi 20 - PHP - Giao diện khách hàng](https://www.youtube.com/watch?v=cEwux79AiKw)
-- [Lập trình Web cơ bản - Buổi 19 - PHP - CRUD 2 bảng liên kết](https://www.youtube.com/watch?v=MemEhFGO2X0)
 <!-- YOUTUBE:END -->
 
 ---
