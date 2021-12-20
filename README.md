@@ -59,7 +59,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C207%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C207%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
@@ -116,7 +116,7 @@ WebStorm                 1 hr 26 mins        ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
