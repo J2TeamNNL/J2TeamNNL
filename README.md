@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình web cơ bản - buổi 26 - PHP - Gửi email &amp; Tâm sự cuối năm](https://www.youtube.com/watch?v=fH9BVGeomMI)
+- [Đồ án Web cơ bản - Kiểm tra và đánh giá &lpar;L1&rpar;](https://www.youtube.com/watch?v=YGc7zc0ZXvM)
 - [Livecode Tool chấm đồ án](https://www.youtube.com/watch?v=wrFP4BAp4ok)
 - [Giao lưu và chia sẻ về Đồ án](https://www.youtube.com/watch?v=84JkzsD4-Sc)
 - [Lập trình Web cơ bản - Buổi 25 - PHP - Admin](https://www.youtube.com/watch?v=TdEOdeIOVEQ)
-- [Lập trình Web cơ bản - Buổi 24 - PHP - Đặt hàng](https://www.youtube.com/watch?v=yndPkfUMozI)
 <!-- YOUTUBE:END -->
 
 ---
