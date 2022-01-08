@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình web cơ bản - buổi 28 - PHP - Thống kê &amp; Bình luận 1 cấp](https://www.youtube.com/watch?v=T1RCc4zALNc)
+- [Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD](https://www.youtube.com/watch?v=DU_SRXoNbTc)
 - [Lập trình web cơ bản - buổi 27 - PHP - Cấu hình CSDL và Quên mật khẩu](https://www.youtube.com/watch?v=QG8Ai3oR8G4)
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá &lpar;L1&rpar;](https://www.youtube.com/watch?v=YGc7zc0ZXvM)
 - [Lập trình web cơ bản - buổi 26 - PHP - Gửi email &amp; Tâm sự cuối năm](https://www.youtube.com/watch?v=fH9BVGeomMI)
-- [Livecode Tool chấm đồ án](https://www.youtube.com/watch?v=wrFP4BAp4ok)
 <!-- YOUTUBE:END -->
 
 ---
