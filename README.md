@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lập trình web cơ bản - buổi 30 - PHP &amp; jQuery - Modal &amp; Signin + Signup &amp; Validate](https://www.youtube.com/watch?v=x_XNnYk1aiw)
 - [Lập trình web cơ bản - buổi 29 - PHP &amp; jQuery - Làm quen &amp; Ajax](https://www.youtube.com/watch?v=HszrnYMdfAU)
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD](https://www.youtube.com/watch?v=DU_SRXoNbTc)
 - [Lập trình web cơ bản - buổi 28 - PHP - Thống kê](https://www.youtube.com/watch?v=T1RCc4zALNc)
 - [Lập trình web cơ bản - buổi 27 - PHP - Cấu hình CSDL và Quên mật khẩu](https://www.youtube.com/watch?v=QG8Ai3oR8G4)
-- [Đồ án Web cơ bản - Kiểm tra và đánh giá &lpar;L1&rpar;](https://www.youtube.com/watch?v=YGc7zc0ZXvM)
 <!-- YOUTUBE:END -->
 
 ---
