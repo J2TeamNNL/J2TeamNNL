@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web cơ bản - Kiểm tra &amp; chia sẻ](https://www.youtube.com/watch?v=X-G-knWMiu8)
+- [Đồ án Web cơ bản - Bảo vệ thử lần 1](https://www.youtube.com/watch?v=vw4c3Z3ycmw)
 - [Đồ án Web cơ bản - Kiểm tra &amp; hướng dẫn tài liệu](https://www.youtube.com/watch?v=UVVdg9jcggM)
 - [Đồ án Web cơ bản - Kiểm tra &amp; chuẩn bị](https://www.youtube.com/watch?v=MTSeaTlRI6I)
 - [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](https://www.youtube.com/watch?v=Eb1gKNpw2M0)
-- [Lập trình web cơ bản - buổi 33 - PHP &amp; jQuery - Tags &amp; Notify](https://www.youtube.com/watch?v=i5SpM6mvCt4)
 <!-- YOUTUBE:END -->
 
 ---
