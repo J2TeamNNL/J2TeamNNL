@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lập trình web chuyên sâu - 1 - MVC](https://www.youtube.com/watch?v=wbY4fBBpFuk)
 - [Đồ án Web cơ bản - Bảo vệ &amp; Chấm](https://www.youtube.com/watch?v=XaeVax9pZcY)
 - [Đồ án Web cơ bản - Tâm sự](https://www.youtube.com/watch?v=h_qgx1oLlgM)
 - [Đồ án Web cơ bản - Bảo vệ](https://www.youtube.com/watch?v=FwDu5yLC4KU)
 - [Đồ án Web cơ bản - Bảo vệ lần 1](https://www.youtube.com/watch?v=K_N9Ek6S6SY)
-- [Đồ án Web cơ bản - Bảo vệ thử lần 3](https://www.youtube.com/watch?v=z1PeehHf0pE)
 <!-- YOUTUBE:END -->
 
 ---
