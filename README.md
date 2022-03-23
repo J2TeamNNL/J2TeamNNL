@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lập trình web chuyên sâu - 6 - MVC &amp; OOP &lpar;2 bảng&rpar;](https://www.youtube.com/watch?v=z1dkKfvJtdc)
 - [Lập trình web chuyên sâu - 5 - MVC &amp; OOP &lpar;tối ưu&rpar;](https://www.youtube.com/watch?v=oUmOpwtxXQU)
 - [Lập trình web chuyên sâu - 4 - MVC &amp; OOP](https://www.youtube.com/watch?v=R3-cXDCtyvA)
 - [Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng](https://www.youtube.com/watch?v=3V5iGyUyfxA)
 - [Lập trình web chuyên sâu - 2 - MVC - CRUD](https://www.youtube.com/watch?v=pPy0sc-ptqg)
-- [Lập trình web chuyên sâu - 1 - MVC](https://www.youtube.com/watch?v=wbY4fBBpFuk)
 <!-- YOUTUBE:END -->
 
 ---
