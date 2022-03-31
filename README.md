@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình web chuyên sâu - 9 - Laravel - CRUD](https://www.youtube.com/watch?v=lkhOFG8JqNc)
-- [Lập trình web chuyên sâu - 10 - Laravel - Paginate &amp; Validate](https://www.youtube.com/watch?v=qIg9kebOh3A)
 - [Lập trình web chuyên sâu - 8 - Laravel - CRUD](https://www.youtube.com/watch?v=QFsPgDpBak0)
 - [Lập trình web chuyên sâu - 7 - Laravel - Install &amp; Beginning](https://www.youtube.com/watch?v=WCjvRGoYfXo)
 - [Lập trình web chuyên sâu - 6 - MVC &amp; OOP &lpar;2 bảng&rpar;](https://www.youtube.com/watch?v=z1dkKfvJtdc)
+- [Lập trình web chuyên sâu - 5 - MVC &amp; OOP &lpar;tối ưu&rpar;](https://www.youtube.com/watch?v=oUmOpwtxXQU)
 <!-- YOUTUBE:END -->
 
 ---
