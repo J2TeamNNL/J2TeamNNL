@@ -55,6 +55,7 @@
 - [Lập trình web chuyên sâu - 7 - Laravel - Install &amp; Beginning](https://www.youtube.com/watch?v=WCjvRGoYfXo)
 - [Lập trình web chuyên sâu - 6 - MVC &amp; OOP &lpar;2 bảng&rpar;](https://www.youtube.com/watch?v=z1dkKfvJtdc)
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
 ---
 ### Development Stats
