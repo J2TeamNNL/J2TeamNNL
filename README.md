@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình web chuyên sâu - 14 - Laravel - Enum](https://www.youtube.com/watch?v=a65TbziA32k)
-- [Lập trình web chuyên sâu - 15 - Laravel - Relationship &amp; Upload](https://www.youtube.com/watch?v=MgyHL6WTRuM)
 - [Đồ án Web chuyên sâu - 1 - Giới thiệu và phân tích](https://www.youtube.com/watch?v=ona6XcLmgcs)
 - [Lập trình web chuyên sâu - 13 - Laravel -  jQuery &amp; REST API &amp; Select2 &amp; Datatable](https://www.youtube.com/watch?v=sJGdUBojV4s)
 - [Lập trình web chuyên sâu - 12 - Laravel -  jQuery &amp; REST API &amp; Datatable](https://www.youtube.com/watch?v=x12dPyo_CvU)
+- [Lập trình web chuyên sâu - 11 - Laravel - Template Blade &amp; Project](https://www.youtube.com/watch?v=FsLnv3FuGZ0)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
