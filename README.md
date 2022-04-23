@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Lập trình web chuyên sâu - 17 - Laravel - Observer &amp; Notification](https://www.youtube.com/watch?v=XV3sif_uLWA)
+- [Đồ án Web chuyên sâu - 3 - Lên khung CSDL và giao diện](https://www.youtube.com/watch?v=PIsyeleGTp4)
 - [Lập trình web chuyên sâu - 16 - Laravel - Session &amp; Middleware](https://www.youtube.com/watch?v=zYvwN3oiFzM)
 - [Đồ án Web chuyên sâu - 2 - Phân tích &amp; Thiết kế](https://www.youtube.com/watch?v=lK6YVQzd0C8)
 - [Lập trình web chuyên sâu - 15 - Laravel - Relationship &amp; Upload](https://www.youtube.com/watch?v=MgyHL6WTRuM)
-- [Lập trình web chuyên sâu - 14 - Laravel - Enum](https://www.youtube.com/watch?v=a65TbziA32k)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
