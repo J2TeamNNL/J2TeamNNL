@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Thi chứng chỉ SQL - HackerRank](https://www.youtube.com/watch?v=2URNQyAA-tA)
 - [Đồ án Web chuyên sâu - 4 - Giao diện](https://www.youtube.com/watch?v=GSBCwB984Mk)
+- [Thi chứng chỉ SQL - HackerRank](https://www.youtube.com/watch?v=2URNQyAA-tA)
 - [Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu](https://www.youtube.com/watch?v=PIsyeleGTp4)
 - [Lập trình web chuyên sâu - 17 - Laravel - Observer &amp; Notification](https://www.youtube.com/watch?v=XV3sif_uLWA)
 - [Lập trình web chuyên sâu - 16 - Laravel - Session &amp; Middleware](https://www.youtube.com/watch?v=zYvwN3oiFzM)
