@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Giao lưu, tâm sự và trả lời](https://www.youtube.com/watch?v=6KpD4E8IFc0)
-- [Đồ án Web chuyên sâu - 6 - CRM - Users](https://www.youtube.com/watch?v=4TRS5KmjP_4)
 - [Đồ án Web chuyên sâu - 5 - Auth](https://www.youtube.com/watch?v=8uhUGSITS2w)
 - [Đồ án Web chuyên sâu - 4 - Giao diện](https://www.youtube.com/watch?v=GSBCwB984Mk)
 - [Thi chứng chỉ SQL - HackerRank](https://www.youtube.com/watch?v=2URNQyAA-tA)
+- [Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu](https://www.youtube.com/watch?v=PIsyeleGTp4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
