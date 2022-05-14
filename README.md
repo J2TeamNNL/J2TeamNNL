@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web học viện - 1 - Phân tích](https://www.youtube.com/watch?v=7bo0l0jrHL8)
+- [Đồ án Web môi giới - 7 - CRM](https://www.youtube.com/watch?v=vfRNBtEMWVY)
 - [Đồ án Web môi giới - 6 - CRM - Users](https://www.youtube.com/watch?v=4TRS5KmjP_4)
 - [Giao lưu, tâm sự và trả lời](https://www.youtube.com/watch?v=6KpD4E8IFc0)
 - [Đồ án Web môi giới - 5 - Auth](https://www.youtube.com/watch?v=8uhUGSITS2w)
-- [Đồ án Web môi giới - 4 - Giao diện](https://www.youtube.com/watch?v=GSBCwB984Mk)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
