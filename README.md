@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Đồ án Web môi giới - 7 - CRM](https://www.youtube.com/watch?v=vfRNBtEMWVY)
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 1](https://www.youtube.com/watch?v=uOpEJFwgDH4)
+- [Đồ án Web môi giới - 7 - CRM](https://www.youtube.com/watch?v=vfRNBtEMWVY)
 - [Đồ án Web học viện - 1 - Phân tích](https://www.youtube.com/watch?v=7bo0l0jrHL8)
 - [Đồ án Web môi giới - 6 - CRM - Users](https://www.youtube.com/watch?v=4TRS5KmjP_4)
 - [Giao lưu, tâm sự và trả lời](https://www.youtube.com/watch?v=6KpD4E8IFc0)
