@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 4](https://www.youtube.com/watch?v=r9u1KuNft20)
+- [Đồ án Web môi giới - 8 - CRUD](https://www.youtube.com/watch?v=HGxvF8DKlpg)
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 3](https://www.youtube.com/watch?v=lP30aS0533s)
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 2](https://www.youtube.com/watch?v=I3-w0LJzZu0)
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 1](https://www.youtube.com/watch?v=uOpEJFwgDH4)
-- [Đồ án Web môi giới - 7 - CRM](https://www.youtube.com/watch?v=vfRNBtEMWVY)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
