@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web môi giới - 11 - Post - Create &lpar;P2&rpar;](https://www.youtube.com/watch?v=6RKftZQ8bBA)
+- [Đồ án Web môi giới - 12 - Post - Create &lpar;P3&rpar;](https://www.youtube.com/watch?v=ga5cNkAijLY)
 - [Đồ án Web môi giới - 10 - Post - Create](https://www.youtube.com/watch?v=ks7wnUzk1Co)
 - [Đồ án Web môi giới - 9 - Post - Paginate](https://www.youtube.com/watch?v=_za3tOVRPVA)
 - [Đồ án Web môi giới - 8 - Import CSV](https://www.youtube.com/watch?v=HGxvF8DKlpg)
-- [Đồ án Web chuyên sâu - Các nhóm phân tích - 4](https://www.youtube.com/watch?v=r9u1KuNft20)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
