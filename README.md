@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Đồ án Web chuyên sâu - Chữa &lpar;L1&rpar;](https://www.youtube.com/watch?v=c2GSO0JG39U)
 - [Đồ án Web môi giới - 15 - Homepage](https://www.youtube.com/watch?v=josVBq6djY0)
+- [Đồ án Web chuyên sâu - Chữa &lpar;L1&rpar;](https://www.youtube.com/watch?v=c2GSO0JG39U)
 - [Đồ án Web chuyên sâu - Đánh giá &lpar;L1&rpar;](https://www.youtube.com/watch?v=A-PU2zQPuNw)
 - [Đồ án Web môi giới - 14 - Post - Create &lpar;P5&rpar;](https://www.youtube.com/watch?v=gK_KU_0DlRQ)
 - [Đồ án Web môi giới - 13 - Post - Create &lpar;P4&rpar;](https://www.youtube.com/watch?v=P6nhBJrGrbY)
