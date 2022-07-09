@@ -116,8 +116,6 @@ WebStorm                 1 hr 30 mins        ░░░░░░░░░░░�
 
 ```
 
-
- Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 
