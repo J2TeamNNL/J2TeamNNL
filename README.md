@@ -60,9 +60,9 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C196%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C186%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
 **🐱 My GitHub Data** 
 
@@ -120,7 +120,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2022 16:58:38 UTC
+ Last Updated on 21/07/2022 17:45:32 UTC
 <!--END_SECTION:waka-->
 
 
