@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Đồ án Web chuyên sâu - Chữa &lpar;L8&rpar; - Review Code](https://www.youtube.com/watch?v=YDtorb7K6sw)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L7&rpar; - Review Code](https://www.youtube.com/watch?v=qe4jEWicuhk)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L6&rpar;](https://www.youtube.com/watch?v=t5D1TUnE828)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L5&rpar;](https://www.youtube.com/watch?v=7S1J44J443o)
 - [Đồ án Web môi giới - 21 - Homepage &lpar;P7&rpar;](https://www.youtube.com/watch?v=-O8SQhNuW2g)
+- [Đồ án Web môi giới - 20 - Homepage &lpar;P6&rpar;](https://www.youtube.com/watch?v=lJ-lIxTvSKU)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
