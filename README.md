@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web môi giới - 23 - Homepage &lpar;P9&rpar;](https://www.youtube.com/watch?v=exKK4cHnMd4)
-- [Đồ án Web chuyên sâu - Chữa &lpar;L11&rpar; - Review Code](https://www.youtube.com/watch?v=JnWCEk8TSng)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L10&rpar; - Review Code](https://www.youtube.com/watch?v=QqIjWiNgIDE)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L9&rpar; - Review Code](https://www.youtube.com/watch?v=nEJbdnBfCyU)
 - [Đồ án Web môi giới - 22 - Homepage &lpar;P8&rpar;](https://www.youtube.com/watch?v=i2Kap7ClV2o)
+- [Đồ án Web chuyên sâu - Chữa &lpar;L8&rpar; - Review Code](https://www.youtube.com/watch?v=YDtorb7K6sw)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
