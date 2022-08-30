@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Giao lưu và chia sẻ đồ án](https://www.youtube.com/watch?v=36Zl_FRjuf0)
-- [Đồ án Web chuyên sâu - Bảo vệ thử đợt 2](https://www.youtube.com/watch?v=B_g_Hokn-L8)
 - [Giao lưu và chia sẻ đồ án](https://www.youtube.com/watch?v=qz0EgObZLaw)
 - [Đồ án Web chuyên sâu - Chữa &lpar;L14&rpar; - Review Code](https://www.youtube.com/watch?v=OzZhJtmUcFg)
 - [Đồ án Web môi giới - 24 - Review &amp; Optimize &lpar;P1&rpar;](https://www.youtube.com/watch?v=1TaYylUSGd4)
+- [Đồ án Web chuyên sâu - Bảo vệ thử đợt 1](https://www.youtube.com/watch?v=jlWd1FY3iy8)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
