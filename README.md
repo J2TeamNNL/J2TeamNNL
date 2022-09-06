@@ -66,8 +66,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 106 Contributions in the Year 2022
- > 
 > 📦 20.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -118,7 +116,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2022 10:47:10 UTC
+ Last Updated on 06/09/2022 11:42:35 UTC
 <!--END_SECTION:waka-->
 
 
