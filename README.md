@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=G8uV3E4A87c)
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=p_7XCZlYJM8)
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=xvIh33sfS20)
 - [Đồ án Web chuyên sâu - Tài liệu](https://www.youtube.com/watch?v=V19Cp3MXtwc)
 - [Đồ án Web chuyên sâu - Tài liệu](https://www.youtube.com/watch?v=HHUV6JqIZpQ)
-- [Đồ án Web chuyên sâu - Bảo vệ thử đợt 2](https://www.youtube.com/watch?v=B_g_Hokn-L8)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
