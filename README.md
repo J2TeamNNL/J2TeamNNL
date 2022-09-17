@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=lxZnvpB2gAY)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=qYK7xKxLV40)
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=lxZnvpB2gAY)
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=p_7XCZlYJM8)
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=G8uV3E4A87c)
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=xvIh33sfS20)
