@@ -60,7 +60,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C506%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
@@ -103,9 +103,9 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Browser                  14 hrs 17 mins      ████████████████░░░░░░░░░   65.48% 
-PhpStorm                 7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   34.47% 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Browser                  15 hrs 36 mins      ████████████████░░░░░░░░░   67.32% 
+PhpStorm                 7 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.64% 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
 
@@ -120,7 +120,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2022 17:38:41 UTC
+ Last Updated on 26/11/2022 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 
