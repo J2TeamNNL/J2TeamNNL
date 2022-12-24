@@ -19,3 +19,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_COMMIT: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
