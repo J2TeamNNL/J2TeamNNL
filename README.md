@@ -58,6 +58,8 @@
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=transparent&hide=contribs&count_private=true)
+
 ### Development Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C594%20hrs%2032%20mins-blue)
