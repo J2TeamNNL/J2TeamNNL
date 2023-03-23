@@ -62,7 +62,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C726%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C726%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -92,7 +92,7 @@ Sunday                   116 commits         ███░░░░░░░░�
 
 
 
- Last Updated on 23/03/2023 10:39:08 UTC
+ Last Updated on 23/03/2023 11:37:54 UTC
 <!--END_SECTION:waka-->
 
 
