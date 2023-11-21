@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=dQ1qbHlol9o)
 - [Livestream trở lại](https://www.youtube.com/watch?v=SpbS2vhEzN4)
+- [Livestream trở lại](https://www.youtube.com/watch?v=bM8OZW68zCs)
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=dQ1qbHlol9o)
 - [Bảo vệ đồ án tốt nghiệp &lpar;năm 3&rpar;](https://www.youtube.com/watch?v=Cx1ZRzo3qO0)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=qYK7xKxLV40)
-- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](https://www.youtube.com/watch?v=lxZnvpB2gAY)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
