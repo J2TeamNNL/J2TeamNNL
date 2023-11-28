@@ -50,7 +50,7 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Chữa đồ án](https://www.youtube.com/watch?v=bM8OZW68zCs)
-- [Lập trình web bán hàng - Pancharm &lpar;P1&rpar;](https://www.youtube.com/watch?v=_FxLPlNugCw)
+- [Dự án Web bán hàng - Phân tích](https://www.youtube.com/watch?v=_FxLPlNugCw)
 - [Livestream trở lại](https://www.youtube.com/watch?v=SpbS2vhEzN4)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=dQ1qbHlol9o)
 - [Bảo vệ đồ án tốt nghiệp &lpar;năm 3&rpar;](https://www.youtube.com/watch?v=Cx1ZRzo3qO0)
