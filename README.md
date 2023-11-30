@@ -50,7 +50,7 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Dự án Web bán hàng - Phân tích](https://www.youtube.com/watch?v=_FxLPlNugCw)
-- [Dự án Web bán hàng - Phân tích](https://www.youtube.com/watch?v=qPpsO0zFDPM)
+- [Dự án Web bán hàng](https://www.youtube.com/watch?v=qPpsO0zFDPM)
 - [Chữa đồ án](https://www.youtube.com/watch?v=bM8OZW68zCs)
 - [Livestream trở lại](https://www.youtube.com/watch?v=SpbS2vhEzN4)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](https://www.youtube.com/watch?v=dQ1qbHlol9o)
