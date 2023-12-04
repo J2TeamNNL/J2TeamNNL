@@ -38,7 +38,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Việc đầu tiên khi sử dụng công nghệ mới](https://j2teamnnl.blogspot.com/2020/07/viec-au-tien-khi-su-dung-cong-nghe-moi.html)
-- [Lập trình viên có &amp;quot;sướng&amp;quot;?](https://j2teamnnl.blogspot.com/2020/03/lap-trinh-vien-co.html)
+- [Lập trình viên có &quot;sướng&quot;?](https://j2teamnnl.blogspot.com/2020/03/lap-trinh-vien-co.html)
 - [Cái chết của chữ Đ](https://j2teamnnl.blogspot.com/2020/01/cai-chet-cua-chu.html)
 - [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
 - [Sau 1 vài ngày mất tích...](https://j2teamnnl.blogspot.com/2019/08/sau-1-vai-ngay-mat-tich.html)
