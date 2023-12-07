@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dự án Web bán hàng](https://www.youtube.com/watch?v=nrZrqIC5B1w)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=Qix3fwDeCiQ)
 - [Dự án Web bán hàng - Homepage](https://www.youtube.com/watch?v=qPpsO0zFDPM)
 - [Dự án Web bán hàng - Phân tích](https://www.youtube.com/watch?v=_FxLPlNugCw)
 - [Chữa đồ án](https://www.youtube.com/watch?v=bM8OZW68zCs)
-- [Livestream trở lại](https://www.youtube.com/watch?v=SpbS2vhEzN4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
