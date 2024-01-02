@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tâm sự](https://www.youtube.com/watch?v=QBL0FdwnNKQ)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=04vNxuyaWlQ)
 - [Tâm sự](https://www.youtube.com/watch?v=sNL-neDMVmU)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=Mi-4b4yXMIE)
 - [Dự án Web bán hàng - Clear cache &amp; Model Events](https://www.youtube.com/watch?v=ecgNACkVjyw)
-- [Dự án Web bán hàng - Cache &amp; Git flow](https://www.youtube.com/watch?v=nrZrqIC5B1w)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
