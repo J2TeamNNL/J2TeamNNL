@@ -49,8 +49,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Tâm sự](https://www.youtube.com/watch?v=sNL-neDMVmU)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=QBL0FdwnNKQ)
+- [Tâm sự](https://www.youtube.com/watch?v=sNL-neDMVmU)
 - [Dự án Web bán hàng - Notification](https://www.youtube.com/watch?v=04vNxuyaWlQ)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=Mi-4b4yXMIE)
 - [Dự án Web bán hàng - Clear cache &amp; Model Events](https://www.youtube.com/watch?v=ecgNACkVjyw)
