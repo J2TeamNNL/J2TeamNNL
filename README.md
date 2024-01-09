@@ -49,7 +49,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Dự án Web bán hàng](https://www.youtube.com/watch?v=QBL0FdwnNKQ)
+- [Dự án Web bán hàng - Update Product](https://www.youtube.com/watch?v=QBL0FdwnNKQ)
 - [Tâm sự](https://www.youtube.com/watch?v=sNL-neDMVmU)
 - [Dự án Web bán hàng - Notification](https://www.youtube.com/watch?v=04vNxuyaWlQ)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=Mi-4b4yXMIE)
