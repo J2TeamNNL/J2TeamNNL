@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=chUIXLxJkQs)
-- [Dự án Web bán hàng](https://www.youtube.com/watch?v=hDQodW7jHzE)
 - [Dự án Web bán hàng - Test](https://www.youtube.com/watch?v=dNIYZkKnewQ)
 - [Dự án Web bán hàng - Cart](https://www.youtube.com/watch?v=jtx_6JTs_sc)
 - [Dự án Web bán hàng - Update Product](https://www.youtube.com/watch?v=QBL0FdwnNKQ)
+- [Tâm sự](https://www.youtube.com/watch?v=sNL-neDMVmU)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
