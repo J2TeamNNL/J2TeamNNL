@@ -64,11 +64,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C730%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +92,7 @@ Sunday                   118 commits         ███░░░░░░░░�
 
 
 
- Last Updated on 05/02/2024 18:37:57 UTC
+ Last Updated on 05/02/2024 19:37:52 UTC
 <!--END_SECTION:waka-->
 
 
