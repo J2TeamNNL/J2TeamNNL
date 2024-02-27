@@ -49,11 +49,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tâm sự đầu năm](https://www.youtube.com/watch?v=szXSfaabPgE)
 - [Tâm sự đầu năm](https://www.youtube.com/watch?v=Yu4_tWSVN2M)
 - [Tâm sự cuối năm](https://www.youtube.com/watch?v=1trpb3YH5vc)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=NpoeDk4IZAQ)
 - [Dự án Web bán hàng](https://www.youtube.com/watch?v=chUIXLxJkQs)
-- [Dự án Web bán hàng - Test](https://www.youtube.com/watch?v=dNIYZkKnewQ)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
