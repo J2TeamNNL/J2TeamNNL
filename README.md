@@ -61,7 +61,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C967%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C973%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -82,15 +82,15 @@ Sunday                   121 commits         ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-PhpStorm                 13 hrs 16 mins      ████████████████████████░   97.66 % 
-WebStorm                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PhpStorm                 15 hrs 14 mins      ████████████████████████░   97.96 % 
+WebStorm                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Mac                      13 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2024 17:37:36 UTC
+ Last Updated on 24/05/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
