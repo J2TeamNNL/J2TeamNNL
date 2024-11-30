@@ -36,11 +36,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cách trích xuất chữ từ PDF trên Windows](https://www.youtube.com/watch?v=es811lWf__I)
 - [Bài quay thử](https://www.youtube.com/watch?v=hE3dKgDWSCs)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=OlNzm1rdRps)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=IRmbPDMU8Uo)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=aM_YyXCXf0k)
-- [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=uBeXyhZFD_0)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
