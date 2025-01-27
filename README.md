@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C664%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -91,7 +91,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/01/2025 15:34:34 UTC
+ Last Updated on 27/01/2025 16:37:49 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
