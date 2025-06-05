@@ -61,9 +61,9 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C052%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C070%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -82,17 +82,17 @@ Sunday                   47 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Windsurf                 22 hrs 56 mins      ███████████████████░░░░░░   77.12 % 
-PhpStorm                 6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Windsurf                 27 hrs 7 mins       ████████████████████░░░░░   78.42 % 
+PhpStorm                 6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+WebStorm                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Mac                      23 hrs 39 mins      ████████████████████░░░░░   79.55 % 
-Windows                  6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Mac                      26 hrs 9 mins       ███████████████████░░░░░░   75.61 % 
+Windows                  8 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
 ```
 
 
- Last Updated on 02/06/2025 11:35:26 UTC
+ Last Updated on 05/06/2025 10:40:50 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
