@@ -61,35 +61,12 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C589%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C595%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Tuesday                  454 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Friday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Saturday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Sunday                   466 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Windsurf                 22 hrs 44 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/10/2025 17:37:36 UTC
+ Last Updated on 29/10/2025 18:42:50 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
