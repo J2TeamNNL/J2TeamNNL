@@ -61,7 +61,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C625%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C631%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -82,14 +82,15 @@ Sunday                   470 commits         ███████░░░░�
 
 ```text
 🔥 Editors: 
-Windsurf                 30 hrs 30 mins      █████████████████████████   100.00 % 
+Windsurf                 30 hrs 30 mins      ████████████████████████░   96.69 % 
+Cursor                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Mac                      30 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/11/2025 17:37:49 UTC
+ Last Updated on 06/11/2025 18:43:42 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
