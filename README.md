@@ -36,11 +36,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [100 ngày học Java &lpar;2&rpar;](https://www.youtube.com/watch?v=qzRWOT2qTjs)
 - [100 ngày học Java &lpar;1&rpar;](https://www.youtube.com/watch?v=uDfa4llBjaQ)
 - [100 ngày học Java &lpar;2&rpar;](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 - [Role challenge - EdTech](https://www.youtube.com/watch?v=V_y7KPjBIV0)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=IRmbPDMU8Uo)
-- [Cách trích xuất chữ từ PDF trên Windows](https://www.youtube.com/watch?v=es811lWf__I)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
