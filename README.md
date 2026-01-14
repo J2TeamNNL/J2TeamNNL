@@ -36,9 +36,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [100 ngày học Java &lpar;2&rpar;](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 - [100 ngày học Java &lpar;2&rpar;](https://www.youtube.com/watch?v=qzRWOT2qTjs)
 - [100 ngày học Java &lpar;1&rpar;](https://www.youtube.com/watch?v=uDfa4llBjaQ)
-- [100 ngày học Java &lpar;2&rpar;](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 - [Role challenge - EdTech](https://www.youtube.com/watch?v=V_y7KPjBIV0)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=IRmbPDMU8Uo)
 <!-- YOUTUBE:END -->
