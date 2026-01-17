@@ -36,8 +36,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Ngày 3/100 học Java - String Builder &amp; String Buffer](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 - [Ngày 4/100 học Java - Heap &amp; Stack](https://www.youtube.com/watch?v=qzRWOT2qTjs)
+- [Ngày 3/100 học Java - String Builder &amp; String Buffer](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 - [Ngày 1+2/100 học Java - Primitive &amp; Wrapper + String Pool](https://www.youtube.com/watch?v=uDfa4llBjaQ)
 - [Role challenge - EdTech](https://www.youtube.com/watch?v=V_y7KPjBIV0)
 - [Tâm sự tuổi chập chững](https://www.youtube.com/watch?v=IRmbPDMU8Uo)
