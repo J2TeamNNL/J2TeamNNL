@@ -36,11 +36,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ngày 7/100 học Java](https://www.youtube.com/watch?v=LLeI4VFNtVE)
 - [Ngày 6/100 học Java - Interface vs Abstract Class](https://www.youtube.com/watch?v=NBJj3iqSVb0)
 - [Ngày 7/100 học Java](https://www.youtube.com/watch?v=WqLy2vlhO-8)
 - [Ngày 5/100 học Java - Generics](https://www.youtube.com/watch?v=tihcfUObMG4)
 - [Ngày 4/100 học Java - Heap &amp; Stack](https://www.youtube.com/watch?v=qzRWOT2qTjs)
-- [Ngày 3/100 học Java - String Builder &amp; String Buffer](https://www.youtube.com/watch?v=jA08bj_Wrlw)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
