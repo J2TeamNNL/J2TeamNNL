@@ -36,7 +36,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Ngày 7/100 học Java](https://www.youtube.com/watch?v=WqLy2vlhO-8)
+- [Ngày 7/100 học Java - Encapsulation &amp; Access Modifiers](https://www.youtube.com/watch?v=WqLy2vlhO-8)
 - [Ngày 7/100 học Java](https://www.youtube.com/watch?v=LLeI4VFNtVE)
 - [Ngày 6/100 học Java - Interface vs Abstract Class](https://www.youtube.com/watch?v=NBJj3iqSVb0)
 - [Ngày 5/100 học Java - Generics](https://www.youtube.com/watch?v=tihcfUObMG4)
