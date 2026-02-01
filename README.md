@@ -61,6 +61,8 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C798%20hrs%2049%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
@@ -87,7 +89,7 @@ Mac                      1 min               ███████████�
 ```
 
 
- Last Updated on 01/02/2026 17:42:10 UTC
+ Last Updated on 01/02/2026 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
