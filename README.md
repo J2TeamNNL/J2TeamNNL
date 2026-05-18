@@ -65,8 +65,32 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 18/05/2026 18:11:23 UTC
+```text
+Monday                   183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Tuesday                  480 commits         ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Wednesday                198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Saturday                 172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Sunday                   520 commits         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Cursor                   15 hrs 33 mins      ██████████████████░░░░░░░   72.29 % 
+Claude Code              5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+
+💻 Operating System: 
+Mac                      21 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 19:08:45 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
