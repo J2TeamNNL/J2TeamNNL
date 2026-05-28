@@ -63,8 +63,33 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 28/05/2026 17:43:31 UTC
+```text
+Monday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Tuesday                  522 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Wednesday                216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Thursday                 245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Friday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   622 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Cursor                   14 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.51 % 
+Unknown Editor           11 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   37.33 % 
+VS Code                  5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+
+💻 Operating System: 
+Mac                      31 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 28/05/2026 19:26:44 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
