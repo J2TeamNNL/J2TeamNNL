@@ -10,9 +10,7 @@
 
 ### 💬 About Me
 
-- 🚀 Backend-focused engineer who loves clean APIs and fast queries
-- 🤖 Building with AI-augmented workflows (Claude Code + MCP)
-- ⚡ Fun fact: I share... a lot!
+> Just a Geek ⚡
 
 <p align="left">
   <a href="https://fb.me/j2teamnnl"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -28,10 +26,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/Claude%20%2B%20MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude + MCP" />
 </p>
@@ -42,13 +38,9 @@
 
 <div align="center">
 
-![J2TeamNNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=j2teamnnl&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2teamnnl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=6&margin-w=8)
 
 </div>
 
