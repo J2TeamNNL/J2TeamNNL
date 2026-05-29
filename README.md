@@ -42,13 +42,13 @@
 
 <div align="center">
 
-![J2TeamNNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_border=true)
+![J2TeamNNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=j2teamnnl&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=j2teamnnl&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2teamnnl&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2teamnnl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true)
 
 </div>
 
