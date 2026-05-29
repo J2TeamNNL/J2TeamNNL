@@ -1,36 +1,56 @@
-### Hi fellows 👋
+<div align="center">
 
-- 💬 Ask me about everything
-- 📫 How to reach me: [Facebook]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+J2TeamNNL+%F0%9F%91%8B;Senior+Backend+Engineer;Laravel+%C2%B7+Vue+%C2%B7+AI-Augmented+Dev;I+share...+a+lot!)](https://github.com/j2teamnnl)
+
+![Profile Views](https://komarev.com/ghpvc/?username=j2teamnnl&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+
+</div>
+
+---
+
+### 💬 About Me
+
+- 🚀 Backend-focused engineer who loves clean APIs and fast queries
+- 🤖 Building with AI-augmented workflows (Claude Code + MCP)
 - ⚡ Fun fact: I share... a lot!
 
+<p align="left">
+  <a href="https://fb.me/j2teamnnl"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/j2teamnnl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 
 ---
 
-### Tools:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg" />
-<br>
+### 🛠️ Tech Stack
 
-### Libraries and Frameworks:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/nuxt-dot-js.svg" />
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Claude%20%2B%20MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude + MCP" />
+</p>
 
-### Databases:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg" />
+---
 
-<br>
-<br>
+### 📊 GitHub Stats
+
+<div align="center">
+
+![J2TeamNNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=j2teamnnl&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2teamnnl&layout=compact&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+
+</div>
 
 ---
 
@@ -45,19 +65,6 @@
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
 ---
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Hành trình mất tài khoản Facebook và cách tôi lấy lại được](https://j2teamnnl.blogspot.com/2025/01/hanh-trinh-mat-tai-khoan-facebook-va.html)
-- [Việc đầu tiên khi sử dụng công nghệ mới](https://j2teamnnl.blogspot.com/2020/07/viec-au-tien-khi-su-dung-cong-nghe-moi.html)
-- [Lập trình viên có &amp;quot;sướng&amp;quot;?](https://j2teamnnl.blogspot.com/2020/03/lap-trinh-vien-co.html)
-- [Cái chết của chữ Đ](https://j2teamnnl.blogspot.com/2020/01/cai-chet-cua-chu.html)
-- [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://j2teamnnl.blogspot.com)
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2teamnnl&show_icons=true&theme=transparent&hide=contribs&count_private=true)
 
 ### Development Stats
 <!--START_SECTION:waka-->
