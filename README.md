@@ -40,8 +40,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=j2teamnnl&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=j2teamnnl&theme=tokyonight&no-frame=true&column=6&margin-w=8)
-
 </div>
 
 ---
