@@ -1,8 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+J2TeamNNL+%F0%9F%91%8B;Senior+Backend+Engineer;Laravel+%C2%B7+Vue+%C2%B7+AI-Augmented+Dev;I+share...+a+lot!)](https://github.com/j2teamnnl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+J2TeamNNL+%F0%9F%91%8B;Fullstack+Engineer;Laravel+%C2%B7+Vue+%C2%B7+AI-Augmented+Dev;I+share...+a+lot!)](https://github.com/j2teamnnl)
 
-![Profile Views](https://komarev.com/ghpvc/?username=j2teamnnl&label=Profile%20Views&color=58A6FF&style=for-the-badge)
 
 </div>
 
@@ -33,8 +32,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
 
