@@ -31,11 +31,11 @@ Just a Geek
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Road to Interview &lpar;day 3&rpar;](https://www.youtube.com/watch?v=lRcYBmolpBI)
 - [Road to Interview &lpar;day 2&rpar;](https://www.youtube.com/watch?v=pb7WoPvRBd8)
 - [Demo phản biện đồ án tốt nghiệp](https://www.youtube.com/watch?v=q6bPno1-1h0)
 - [Road to Interview &lpar;day 1&rpar;](https://www.youtube.com/watch?v=LLeI4VFNtVE)
 - [Ngày 7/100 học Java - Encapsulation &amp; Access Modifiers](https://www.youtube.com/watch?v=WqLy2vlhO-8)
-- [Ngày 6/100 học Java - Interface vs Abstract Class](https://www.youtube.com/watch?v=NBJj3iqSVb0)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
