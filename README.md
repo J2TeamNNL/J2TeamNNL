@@ -47,8 +47,21 @@ Just a Geek
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 16/07/2026 20:30:30 UTC
+```text
+Monday                   393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Tuesday                  641 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Thursday                 331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Friday                   422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Saturday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Sunday                   960 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+```
+
+
+
+ Last Updated on 16/07/2026 21:39:04 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
