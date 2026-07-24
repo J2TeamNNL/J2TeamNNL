@@ -43,8 +43,6 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C378%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
@@ -61,7 +59,7 @@ Sunday                   960 commits         ███████░░░░�
 
 
 
- Last Updated on 24/07/2026 15:17:34 UTC
+ Last Updated on 24/07/2026 17:10:03 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
