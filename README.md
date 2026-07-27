@@ -43,7 +43,9 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C383%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C281%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -60,8 +62,34 @@ Sunday                   960 commits         ███████░░░░�
 ```
 
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:45:52 UTC
+```text
+⏱ AI Coding Time: 27 hrs 43 mins (96.84%)
+
+✍️ 13,982 lines written by AI, 36 lines written by hand (99.74% AI-written)
+
+🔤 738,084,846 Input Tokens, 3,495,065 Output Tokens
+
+💵 $3064.80 Estimated AI Cost This Week
+
+🧠 132 AI Sessions, 243 AI Prompts
+
+Opus                     10,579 lines        ███████████████████░░░░░░   76.65 % 
+Fable                    2,445 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Composer                 757 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+GPT                      11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 12,690 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 16:02:57 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
