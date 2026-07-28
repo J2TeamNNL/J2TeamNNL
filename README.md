@@ -43,9 +43,9 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C288%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C289%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-474%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-476%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -65,31 +65,31 @@ Sunday                   960 commits         ███████░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 56 mins (97.34%)
+⏱ AI Coding Time: 24 hrs 12 mins (96.21%)
 
-✍️ 12,215 lines written by AI, 26 lines written by hand (99.79% AI-written)
+✍️ 10,164 lines written by AI, 26 lines written by hand (99.74% AI-written)
 
-🔤 756,863,080 Input Tokens, 3,656,369 Output Tokens
+🔤 536,431,325 Input Tokens, 2,835,997 Output Tokens
 
-💵 $3204.03 Estimated AI Cost This Week
+💵 $2457.85 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 320 AI Prompts
+🧠 157 AI Sessions, 282 AI Prompts
 
-Opus                     10,802 lines        ██████████████████████░░░   86.72 % 
-GPT                      896 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Composer                 757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Opus                     9,446 lines         ███████████████████████░░   91.33 % 
+GPT                      896 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 Vscode-Wakatime          1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 13,217 characters per prompt
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 11,326 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 18:58:17 UTC
+ Last Updated on 28/07/2026 20:48:16 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
