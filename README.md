@@ -43,9 +43,9 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C289%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C291%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-476%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-479%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -65,31 +65,31 @@ Sunday                   1090 commits        ███████░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 12 mins (96.21%)
+⏱ AI Coding Time: 22 hrs 4 mins (95.86%)
 
-✍️ 10,164 lines written by AI, 26 lines written by hand (99.74% AI-written)
+✍️ 9,417 lines written by AI, 26 lines written by hand (99.72% AI-written)
 
-🔤 536,431,325 Input Tokens, 2,835,997 Output Tokens
+🔤 470,434,900 Input Tokens, 2,423,610 Output Tokens
 
-💵 $2457.85 Estimated AI Cost This Week
+💵 $2167.79 Estimated AI Cost This Week
 
-🧠 157 AI Sessions, 282 AI Prompts
+🧠 140 AI Sessions, 261 AI Prompts
 
-Opus                     9,446 lines         ███████████████████████░░   91.33 % 
-GPT                      896 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Opus                     8,597 lines         ███████████████████████░░   90.18 % 
+GPT                      935 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 Vscode-Wakatime          1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 11,326 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 10,590 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 18:36:14 UTC
+ Last Updated on 29/07/2026 20:34:33 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
