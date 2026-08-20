@@ -43,9 +43,9 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C394%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C400%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-590%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-596%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -65,31 +65,31 @@ Sunday                   1125 commits        ███████░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 22 mins (99.81%)
+⏱ AI Coding Time: 30 hrs 29 mins (99.75%)
 
-✍️ 60,067 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 28,508 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 36,715,653 Input Tokens, 5,244,125 Output Tokens
+🔤 20,217,343 Input Tokens, 3,303,471 Output Tokens
 
-💵 $1123.30 Estimated AI Cost This Week
+💵 $692.30 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 402 AI Prompts
+🧠 69 AI Sessions, 281 AI Prompts
 
-Opus                     52,825 lines        █████████████████████░░░░   85.96 % 
-GPT                      7,585 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Composer                 1,009 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Codex-Vscode             35 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     28,086 lines        ███████████████████████░░   90.66 % 
+GPT                      1,453 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Composer                 1,009 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Fable                    396 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Codex-Vscode             35 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,954 characters per prompt
+📚 Verbose Prompter — average 2,525 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 17:06:15 UTC
+ Last Updated on 20/08/2026 18:00:58 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
