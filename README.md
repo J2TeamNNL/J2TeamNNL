@@ -49,8 +49,47 @@ Just a Geek
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 24/08/2026 18:07:00 UTC
+```text
+Monday                   478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  767 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Wednesday                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Thursday                 438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Sunday                   1148 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 51 hrs 30 mins (99.56%)
+
+✍️ 52,932 lines written by AI, 2 lines written by hand (100.0% AI-written)
+
+🔤 42,359,753 Input Tokens, 6,628,564 Output Tokens
+
+💵 $1438.40 Estimated AI Cost This Week
+
+🧠 117 AI Sessions, 602 AI Prompts
+
+Opus                     48,893 lines        ██████████████████████░░░   88.60 % 
+Sonnet                   2,621 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+GPT                      2,460 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Fable                    1,140 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Codex-Vscode             70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,375 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
+
+ Last Updated on 24/08/2026 19:18:55 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
