@@ -17,7 +17,8 @@ import xml.sax.saxutils
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CARD_PATH = ROOT / "assets" / "now-playing.svg"
+SPOTIFY_CARD_PATH = ROOT / "assets" / "now-playing-spotify.svg"
+YOUTUBE_CARD_PATH = ROOT / "assets" / "now-playing-youtube.svg"
 README_PATH = ROOT / "README.md"
 SPOTIFY_USER_URL = "https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab"
 YTMUSIC_HOME_URL = "https://music.youtube.com"
@@ -212,11 +213,11 @@ def fetch_lastfm() -> dict | None:
     }
 
 
-def choose_track(tracks: list[dict]) -> dict | None:
-    playing = [track for track in tracks if track.get("is_playing")]
-    if playing:
-        return playing[0]
-    return tracks[0] if tracks else None
+def pick_source(tracks: list[dict], source: str) -> dict | None:
+    for track in tracks:
+        if track.get("source") == source:
+            return track
+    return None
 
 
 def load_cover_data_uri(image_url: str) -> str:
@@ -249,19 +250,19 @@ def bar_animations() -> str:
     return "\n".join(parts)
 
 
-def render_svg(track: dict | None) -> str:
+def render_svg(track: dict | None, *, idle_label: str = "Now Playing") -> str:
     if track:
         title = truncate(track["title"], 28)
         artist = truncate(track["artist"], 32)
-        label = track.get("source_label") or "Now Playing"
+        label = track.get("source_label") or idle_label
         cover = load_cover_data_uri(track.get("image_url") or "")
         aria = f"{title} — {artist}"
     else:
         title = "Nothing playing"
         artist = "J2TeamNNL"
-        label = "Now Playing"
+        label = idle_label
         cover = ""
-        aria = "Nothing playing"
+        aria = idle_label
 
     if cover:
         art = f"""  <defs>
@@ -271,12 +272,11 @@ def render_svg(track: dict | None) -> str:
   </defs>
   <image x="16" y="16.5" width="100" height="100" href="{cover}" clip-path="url(#cover)"/>"""
     else:
-        art = """  <rect x="16" y="16.5" width="100" height="100" rx="6" fill="#1DB954"/>
-  <g transform="translate(36.5, 37)" fill="#181818">
-    <path d="M39.48 20.04c-8.4-5.04-22.32-5.52-30.36-3.06-.72.24-1.44-.18-1.68-.84-.24-.72.18-1.44.84-1.68 9.24-2.76 24.6-2.22 34.32 3.54.66.36.9 1.2.48 1.86-.36.6-1.2.84-1.86.48zm-1.74 4.8c-.36.54-1.02.72-1.56.36-7.2-4.44-18.18-5.76-26.7-3.12-.6.18-1.26-.12-1.44-.72-.18-.6.12-1.26.72-1.44 9.72-2.94 21.84-1.56 30.18 3.6.54.3.72 1.02.36 1.56v.76zm-2.04 4.62c-.3.42-.78.54-1.2.3-6.3-3.84-14.22-4.68-23.58-2.52-.48.12-.96-.18-1.08-.66-.12-.48.18-.96.66-1.08 10.2-2.16 18.9-1.2 25.92 2.94.48.24.54.78.3 1.2l-.02.82z"/>
-  </g>"""
+        idle_fill = "#FF0000" if "YouTube" in idle_label else "#1DB954"
+        art = f"""  <rect x="16" y="16.5" width="100" height="100" rx="6" fill="{idle_fill}"/>"""
 
-    accent = "#FF0000" if track and track.get("source") == "youtube-music" else "#1DB954"
+    youtube_source = bool(track and track.get("source") == "youtube-music") or "YouTube" in idle_label
+    accent = "#FF0000" if youtube_source else "#1DB954"
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="480" height="133" viewBox="0 0 480 133" role="img" aria-label="{xml_escape(aria)}">
   <title>{xml_escape(aria)}</title>
   <rect width="480" height="133" rx="8" fill="#181818"/>
@@ -291,18 +291,23 @@ def render_svg(track: dict | None) -> str:
 """
 
 
-def update_readme(track: dict | None, cache_buster: str) -> None:
-    readme = README_PATH.read_text(encoding="utf-8")
-    href = (track or {}).get("track_url") or SPOTIFY_USER_URL
-    alt = "Now Playing"
-    if track:
-        alt = f"{track['title']} — {track['artist']}"
-    src = "https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing.svg"
+def card_markdown(track: dict | None, filename: str, cache_buster: str, fallback_href: str, fallback_alt: str) -> str:
+    href = (track or {}).get("track_url") or fallback_href
+    alt = f"{track['title']} — {track['artist']}" if track else fallback_alt
+    src = f"https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/{filename}"
     if cache_buster:
         src += f"?t={urllib.parse.quote(cache_buster, safe='')}"
+    return f'[<img src="{src}" alt="{xml_escape(alt)}" width="350" />]({href})'
+
+
+def update_readme(spotify: dict | None, youtube: dict | None, cache_buster: str) -> None:
+    readme = README_PATH.read_text(encoding="utf-8")
     block = (
         f"{MARKER_START}\n"
-        f'[<img src="{src}" alt="{xml_escape(alt)}" width="350" />]({href})\n'
+        f"<p>\n"
+        f"  {card_markdown(spotify, 'now-playing-spotify.svg', cache_buster, SPOTIFY_USER_URL, 'Spotify Playing')}\n"
+        f"  {card_markdown(youtube, 'now-playing-youtube.svg', cache_buster, YTMUSIC_HOME_URL, 'YouTube Music')}\n"
+        f"</p>\n"
         f"{MARKER_END}"
     )
     if MARKER_START in readme and MARKER_END in readme:
@@ -326,12 +331,18 @@ def main() -> int:
             tracks.append(track)
             print(f"Found {track['source']}: {track['title']} — {track['artist']}")
 
-    chosen = choose_track(tracks)
-    CARD_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CARD_PATH.write_text(render_svg(chosen), encoding="utf-8")
+    spotify = pick_source(tracks, "spotify")
+    youtube = pick_source(tracks, "youtube-music")
+    lastfm = pick_source(tracks, "lastfm")
+    if youtube is None and lastfm is not None:
+        youtube = lastfm
+
+    SPOTIFY_CARD_PATH.parent.mkdir(parents=True, exist_ok=True)
+    SPOTIFY_CARD_PATH.write_text(render_svg(spotify, idle_label="Spotify Playing"), encoding="utf-8")
+    YOUTUBE_CARD_PATH.write_text(render_svg(youtube, idle_label="YouTube Music"), encoding="utf-8")
     cache_buster = os.environ.get("GITHUB_RUN_ID") or os.environ.get("NOW_PLAYING_CACHE") or ""
-    update_readme(chosen, cache_buster)
-    if not chosen:
+    update_readme(spotify, youtube, cache_buster)
+    if spotify is None and youtube is None:
         print("No live track yet. Add Spotify or YouTube Music secrets to enable now-playing.")
     return 0
 

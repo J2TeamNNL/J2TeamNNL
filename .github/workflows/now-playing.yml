@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/now-playing.svg README.md
+          git add assets/now-playing-spotify.svg assets/now-playing-youtube.svg README.md
           if git diff --staged --quiet; then
             echo "No now-playing changes"
             exit 0
