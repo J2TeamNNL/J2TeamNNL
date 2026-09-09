@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb" target="_blank"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg" alt="Whatever It Takes — Imagine Dragons" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=4eCtPlJ0aQ8" target="_blank"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg" alt="NGÔI NHÀ HẠNH PHÚC - ĐỂ EM RỜI XA | Trung Quân x Thuỷ Tiên x Phúc Bồ | Live at Soul of the forest — Trung Quân" width="350" /></a>
+  <a href="https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=34331983045" alt="I'm Gonna Be (500 Miles) — The Proclaimers" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=34331983045" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
