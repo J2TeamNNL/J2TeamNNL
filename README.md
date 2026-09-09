@@ -15,7 +15,7 @@
 Just a Geek
 
 <!-- NOW_PLAYING:START -->
-[<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing.svg" alt="Now Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+[<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing.svg" alt="NGÔI NHÀ HẠNH PHÚC - ĐỂ EM RỜI XA | Trung Quân x Thuỷ Tiên x Phúc Bồ | Live at Soul of the forest — Trung Quân" width="350" />](https://music.youtube.com/watch?v=4eCtPlJ0aQ8)
 <!-- NOW_PLAYING:END -->
 
 ---
