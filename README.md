@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  [<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg" alt="Whatever It Takes — Imagine Dragons" width="350" />](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb)
-  [<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg" alt="NGÔI NHÀ HẠNH PHÚC - ĐỂ EM RỜI XA | Trung Quân x Thuỷ Tiên x Phúc Bồ | Live at Soul of the forest — Trung Quân" width="350" />](https://music.youtube.com/watch?v=4eCtPlJ0aQ8)
+  <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg" alt="Whatever It Takes — Imagine Dragons" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=4eCtPlJ0aQ8"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg" alt="NGÔI NHÀ HẠNH PHÚC - ĐỂ EM RỜI XA | Trung Quân x Thuỷ Tiên x Phúc Bồ | Live at Soul of the forest — Trung Quân" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 

@@ -297,7 +297,11 @@ def card_markdown(track: dict | None, filename: str, cache_buster: str, fallback
     src = f"https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/{filename}"
     if cache_buster:
         src += f"?t={urllib.parse.quote(cache_buster, safe='')}"
-    return f'[<img src="{src}" alt="{xml_escape(alt)}" width="350" />]({href})'
+    return (
+        f'<a href="{xml_escape(href)}">'
+        f'<img src="{xml_escape(src)}" alt="{xml_escape(alt)}" width="350" />'
+        f"</a>"
+    )
 
 
 def update_readme(spotify: dict | None, youtube: dict | None, cache_buster: str) -> None:
