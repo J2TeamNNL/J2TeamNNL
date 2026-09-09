@@ -1,0 +1,48 @@
+name: Update Now Playing
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  now-playing:
+    name: Refresh now-playing card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install optional YouTube Music client
+        run: pip install ytmusicapi
+
+      - name: Render now-playing card
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          YTMUSIC_HEADERS: ${{ secrets.YTMUSIC_HEADERS }}
+          YTM_BROWSER: ${{ secrets.YTM_BROWSER }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+        run: python scripts/update_now_playing.py
+
+      - name: Commit card if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/now-playing.svg README.md
+          if git diff --staged --quiet; then
+            echo "No now-playing changes"
+            exit 0
+          fi
+          git commit -m "Updated Now Playing"
+          git push

@@ -14,7 +14,9 @@
 
 Just a Geek
 
-[<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/spotify-playing.svg" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+<!-- NOW_PLAYING:START -->
+[<img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing.svg" alt="Now Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+<!-- NOW_PLAYING:END -->
 
 ---
 
