@@ -36,9 +36,9 @@ Just a Geek
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Road to Interview &lpar;day 4&rpar;](https://www.youtube.com/watch?v=D3RdLhbceoc)
 - [Road to Interview &lpar;day 4&rpar;](https://www.youtube.com/watch?v=RWmb92oOA_w)
 - [TikTok DM helper](https://www.youtube.com/watch?v=9OFnxGas9Fc)
-- [Road to Interview &lpar;day 4&rpar;](https://www.youtube.com/watch?v=D3RdLhbceoc)
 - [Road to Interview &lpar;day 3&rpar;](https://www.youtube.com/watch?v=lRcYBmolpBI)
 - [Road to Interview &lpar;day 2&rpar;](https://www.youtube.com/watch?v=pb7WoPvRBd8)
 <!-- YOUTUBE:END -->
