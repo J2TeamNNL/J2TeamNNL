@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=34546281635" alt="một đời — 14 Casper" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=RKLdfpVu2Qk"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=34546281635" alt="Viva La Vida — Cale" width="350" /></a>
+  <a href="https://open.spotify.com/track/0Xny2oYgUry5RPZziyFKKt"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=34564279793" alt="Honey (Tình Yêu Ngọt Ngào) — Hồ Quỳnh Hương" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=34564279793" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
