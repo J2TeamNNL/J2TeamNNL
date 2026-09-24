@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/36vTcKKh2EafskEYs4ju02"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=35924798144" alt="Em Không Quay Về — Hoàng Tôn" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=35924798144" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/36vTcKKh2EafskEYs4ju02"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=35936496852" alt="Em Không Quay Về — Hoàng Tôn" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=35936496852" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
