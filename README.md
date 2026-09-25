@@ -50,51 +50,51 @@ Just a Geek
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C509%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-721%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-721%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   533 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Tuesday                  1211 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Wednesday                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Thursday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Friday                   661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Saturday                 836 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Sunday                   1297 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Monday                   558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  1221 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Wednesday                607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Thursday                 689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Friday                   686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 853 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Sunday                   1297 commits        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 26 mins (100.0%)
 
-✍️ 2,419 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 798 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,640,709 Input Tokens, 1,093,644 Output Tokens
+🔤 2,651,048 Input Tokens, 164,378 Output Tokens
 
-💵 $223.60 Estimated AI Cost This Week
+💵 $25.05 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 99 AI Prompts
+🧠 16 AI Sessions, 42 AI Prompts
 
-Opus                     2,048 lines         █████████████████████░░░░   82.91 % 
-GPT                      164 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Grok                     137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Fable                    121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     469 lines           ██████████████░░░░░░░░░░░   56.17 % 
+Grok                     125 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Fable                    121 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+GPT                      120 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,584 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,057 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 19:02:45 UTC
+ Last Updated on 25/09/2026 22:55:05 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
