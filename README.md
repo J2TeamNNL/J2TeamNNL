@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/3St0RlsL0Z0klK1mqWakQm"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=36368168655" alt="If I Let You Go - Radio Edit — Westlife" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=36368168655" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=36398592450" alt="There's Nothing Holdin' Me Back — Shawn Mendes" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=36398592450" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
