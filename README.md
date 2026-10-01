@@ -48,53 +48,53 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C510%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C516%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-722%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-728%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  1312 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Wednesday                634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Thursday                 730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Friday                   762 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Saturday                 939 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Sunday                   1311 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Monday                   652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Tuesday                  1320 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Wednesday                636 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Thursday                 730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Friday                   772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Saturday                 945 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sunday                   1311 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 50 mins (100.0%)
+⏱ AI Coding Time: 40 hrs 10 mins (100.0%)
 
-✍️ 4,303 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,600 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,668,999 Input Tokens, 1,450,486 Output Tokens
+🔤 34,939,118 Input Tokens, 7,032,374 Output Tokens
 
-💵 $261.03 Estimated AI Cost This Week
+💵 $973.12 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 66 AI Prompts
+🧠 121 AI Sessions, 296 AI Prompts
 
-GPT                      2,771 lines         ████████████████░░░░░░░░░   63.82 % 
-Opus                     904 lines           █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Sonnet                   441 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Fable                    187 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Codex-Vscode             39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+GPT                      6,738 lines         ████████████████░░░░░░░░░   62.27 % 
+Opus                     2,155 lines         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Composer                 1,447 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sonnet                   479 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Codex-Vscode             1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,238 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 4,649 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 19:48:48 UTC
+ Last Updated on 01/10/2026 00:21:26 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
