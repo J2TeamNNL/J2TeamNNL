@@ -11,28 +11,28 @@
       <animate attributeName="y" values="11;0;11" dur="1.16s" repeatCount="indefinite"/>
     </rect>
     <rect x="5" y="8" width="3" height="8" rx="1">
+      <animate attributeName="height" values="5;16;5" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="11;0;11" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="8" width="3" height="8" rx="1">
       <animate attributeName="height" values="5;16;5" dur="1.06s" repeatCount="indefinite"/>
       <animate attributeName="y" values="11;0;11" dur="1.06s" repeatCount="indefinite"/>
     </rect>
-    <rect x="10" y="8" width="3" height="8" rx="1">
-      <animate attributeName="height" values="5;16;5" dur="0.82s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="11;0;11" dur="0.82s" repeatCount="indefinite"/>
-    </rect>
     <rect x="15" y="8" width="3" height="8" rx="1">
-      <animate attributeName="height" values="5;16;5" dur="0.85s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="11;0;11" dur="0.85s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="5;16;5" dur="1.03s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="11;0;11" dur="1.03s" repeatCount="indefinite"/>
     </rect>
     <rect x="20" y="8" width="3" height="8" rx="1">
-      <animate attributeName="height" values="5;16;5" dur="0.9s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="11;0;11" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="5;16;5" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="11;0;11" dur="1.15s" repeatCount="indefinite"/>
     </rect>
     <rect x="25" y="8" width="3" height="8" rx="1">
-      <animate attributeName="height" values="5;16;5" dur="0.88s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="11;0;11" dur="0.88s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="5;16;5" dur="0.98s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="11;0;11" dur="0.98s" repeatCount="indefinite"/>
     </rect>
     <rect x="30" y="8" width="3" height="8" rx="1">
-      <animate attributeName="height" values="5;16;5" dur="1.08s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="11;0;11" dur="1.08s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="5;16;5" dur="1.05s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="11;0;11" dur="1.05s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
