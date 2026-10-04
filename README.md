@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/3frBakXFwfaJwWp4XUTWkq"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=37187118278" alt="Lửng Lơ — Masew" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=37187118278" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=37206777226" alt="Anh Là Ngoại Lệ Của Em — Phương Ly" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=37206777226" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
