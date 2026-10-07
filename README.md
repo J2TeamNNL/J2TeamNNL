@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/74qA6doW3wAOyu31WIzY0T"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=37599272074" alt="Ai Ngờ Em Giờ Chơi Vơi — Chu Thúy Quỳnh" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=37599272074" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/0e7aJRwUwDflXP21oEzthn"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=37653547671" alt="Thầm Gọi Tên Anh — Minh Tuyết" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=37653547671" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
