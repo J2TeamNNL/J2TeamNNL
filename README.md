@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=40139519922" alt="I Wanna Dance with Somebody (Who Loves Me) — Whitney Houston" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=40139519922" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=40147100453" alt="I Wanna Dance with Somebody (Who Loves Me) — Whitney Houston" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=40147100453" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
