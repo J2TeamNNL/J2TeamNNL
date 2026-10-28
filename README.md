@@ -70,30 +70,29 @@ Sunday                   1314 commits        ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 35 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 2 mins (100.0%)
 
-✍️ 15,965 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,551 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 28,006,335 Input Tokens, 5,221,950 Output Tokens
+🔤 6,920,919 Input Tokens, 794,372 Output Tokens
 
-💵 $313.58 Estimated AI Cost This Week
+💵 $65.49 Estimated AI Cost This Week
 
-🧠 153 AI Sessions, 309 AI Prompts
+🧠 33 AI Sessions, 67 AI Prompts
 
-GPT                      11,491 lines        ██████████████████░░░░░░░   70.80 % 
-Opus                     4,426 lines         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Sonnet                   314 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,393 lines         ██████████████████░░░░░░░   73.06 % 
+Opus                     1,251 lines         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,074 characters per prompt
+📚 Verbose Prompter — average 6,106 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 17:13:43 UTC
+ Last Updated on 28/10/2026 22:12:07 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
