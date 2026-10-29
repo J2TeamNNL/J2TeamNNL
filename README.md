@@ -48,9 +48,9 @@ Just a Geek
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C572%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C573%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-800%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-800%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,7 +61,7 @@ Monday                   769 commits         ██░░░░░░░░░�
 Tuesday                  1426 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 Wednesday                635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 Thursday                 957 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Friday                   1640 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Friday                   1641 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 Saturday                 1185 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 Sunday                   1314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 ```
@@ -70,29 +70,29 @@ Sunday                   1314 commits        ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 45 mins (100.0%)
 
-✍️ 4,551 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 913 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,920,919 Input Tokens, 794,372 Output Tokens
+🔤 1,257,281 Input Tokens, 185,793 Output Tokens
 
-💵 $65.49 Estimated AI Cost This Week
+💵 $20.45 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 67 AI Prompts
+🧠 16 AI Sessions, 32 AI Prompts
 
-GPT                      3,393 lines         ██████████████████░░░░░░░   73.06 % 
-Opus                     1,251 lines         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Opus                     975 lines           ███████████████████████░░   93.03 % 
+GPT                      73 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,106 characters per prompt
+📚 Verbose Prompter — average 1,578 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 16:45:34 UTC
+ Last Updated on 29/10/2026 21:44:25 UTC
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/j2teamnnl
