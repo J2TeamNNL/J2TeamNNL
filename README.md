@@ -16,8 +16,8 @@ Just a Geek
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=40906348519" alt="LET'S NOT FALL IN LOVE — BIGBANG" width="350" /></a>
-  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=40906348519" alt="YouTube Music" width="350" /></a>
+  <a href="https://open.spotify.com/track/4yR0Qfe3tgxCSxM7XEa2i6"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=40953157305" alt="Một Vòng Việt Nam — Tùng Dương" width="350" /></a>
+  <a href="https://music.youtube.com"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=40953157305" alt="YouTube Music" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
