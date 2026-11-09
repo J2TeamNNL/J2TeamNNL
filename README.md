@@ -1,18 +1,10 @@
-<div align="center">
+# Nguyễn Nam Long
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+J2TeamNNL+%F0%9F%91%8B;Fullstack+Engineer;I+share...+a+lot!)
+Senior Software Engineer working on production systems, AI integration, and engineering mentorship.
 
-<p>
-  <a href="https://fb.me/j2teamnnl"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.linkedin.com/in/j2teamnnl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/j2teamnnl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
+[Portfolio](https://j2teamnnl.com/) · [LinkedIn](https://www.linkedin.com/in/j2teamnnl) · [YouTube](https://www.youtube.com/j2teamnnl)
 
-</div>
-
----
-
-Just a Geek
+### On rotation
 
 <!-- NOW_PLAYING:START -->
 <p>
@@ -21,20 +13,9 @@ Just a Geek
 </p>
 <!-- NOW_PLAYING:END -->
 
----
+<details>
+<summary>Latest YouTube videos</summary>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Claude%20%2B%20MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude + MCP" />
-</p>
-
----
-
-### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Road to Interview &lpar;day 4&rpar;](https://www.youtube.com/watch?v=D3RdLhbceoc)
 - [Road to Interview &lpar;day 4&rpar;](https://www.youtube.com/watch?v=RWmb92oOA_w)
@@ -42,11 +23,14 @@ Just a Geek
 - [Road to Interview &lpar;day 3&rpar;](https://www.youtube.com/watch?v=lRcYBmolpBI)
 - [Road to Interview &lpar;day 2&rpar;](https://www.youtube.com/watch?v=pb7WoPvRBd8)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/j2teamnnl)
 
----
+[More videos](https://www.youtube.com/j2teamnnl)
 
-### Development Stats
+</details>
+
+<details>
+<summary>Development stats</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C588%20hrs%207%20mins-blue?style=flat)
 
@@ -97,4 +81,4 @@ Haiku                    0 lines             ░░░░░░░░░░░�
  Last Updated on 01/11/2026 20:14:59 UTC
 <!--END_SECTION:waka-->
 
-[Facebook]: https://fb.me/j2teamnnl
+</details>
