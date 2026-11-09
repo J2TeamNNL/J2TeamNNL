@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/0mb7btREdC3wuIUmuVRgWn"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42600630321" alt="I'm Still Standing - From &quot;Sing&quot; Original Motion Picture Soundtrack — Taron Egerton" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=LmwcJ3UsX48"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42600630321" alt="Never Enough — Loren Allred" width="350" /></a>
+  <a href="https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42656561301" alt="Angel Baby — Troye Sivan" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=Edwsf-8F3sI"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42656561301" alt="Feeling Good (Live from Madison Square Garden) — Michael Bublé" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
