@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42776665817" alt="Fire On Fire — Sam Smith" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=GMV4PhyF_oA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42776665817" alt="Hai Mươi — MỸ TÂM" width="350" /></a>
+  <a href="https://open.spotify.com/track/6zgyPmEgoNIa5ovzUwtNKT"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42847896584" alt="Nếu — Noo Phước Thịnh" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=GMV4PhyF_oA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42847896584" alt="Hai Mươi — MỸ TÂM" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
