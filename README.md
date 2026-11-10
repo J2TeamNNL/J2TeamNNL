@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6zgyPmEgoNIa5ovzUwtNKT"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42847896584" alt="Nếu — Noo Phước Thịnh" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=GMV4PhyF_oA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42847896584" alt="Hai Mươi — MỸ TÂM" width="350" /></a>
+  <a href="https://open.spotify.com/track/6zgyPmEgoNIa5ovzUwtNKT"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42905207116" alt="Nếu — Noo Phước Thịnh" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=K-Na7ZKkdqc"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42905207116" alt="DƯỜNG NHƯ TA ĐÃ - BẠCH CÔNG KHANH live cover at #Lululola — Feb 27, 2023" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
