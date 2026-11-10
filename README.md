@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6q7AwoBe44UEL3TiSnk6B1"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42728197128" alt="Sorry Seems To Be The Hardest Word - Radio Edit — Blue" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=Edwsf-8F3sI"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42728197128" alt="Feeling Good (Live from Madison Square Garden) — Michael Bublé" width="350" /></a>
+  <a href="https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42776665817" alt="Fire On Fire — Sam Smith" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=GMV4PhyF_oA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42776665817" alt="Hai Mươi — MỸ TÂM" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
