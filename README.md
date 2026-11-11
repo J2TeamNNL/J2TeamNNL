@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/1avbaACTs8QOtkAVD5YIiT"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=42984334505" alt="Somewhere Only We Know — Gustixa" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=42984334505" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
+  <a href="https://open.spotify.com/track/1KeKnNe8t1qCFuhwXCq405"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43054977307" alt="everything sucks (feat. Eric Nam) — vaultboy" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=SK5UuxNf0OA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43054977307" alt="What Are Words — Chris Medina" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
