@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/7haqksy0dxRS8W1GSqez6J"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43113643165" alt="Firefly — Jim Yosef" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=SK5UuxNf0OA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43113643165" alt="What Are Words — Chris Medina" width="350" /></a>
+  <a href="https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43147861408" alt="Truly Madly Deeply — Savage Garden" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=SK5UuxNf0OA"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43147861408" alt="What Are Words — Chris Medina" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
