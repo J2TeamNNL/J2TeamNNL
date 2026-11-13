@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43453069890" alt="Sacrifice — Elton John" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=4St8WMgkVbg"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43453069890" alt="Hoa cỏ mùa xuân - Mỹ Linh — Đức Chung" width="350" /></a>
+  <a href="https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43511645756" alt="Sacrifice — Elton John" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=4St8WMgkVbg"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43511645756" alt="Hoa cỏ mùa xuân - Mỹ Linh — Đức Chung" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
