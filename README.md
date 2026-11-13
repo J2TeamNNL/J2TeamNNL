@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/2gp9r3JdRtr8j6HycC0jLQ"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43337865270" alt="Vẫn Tin Mình Có Nhau — Quang Vinh" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=HLphrgQFHUQ"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43337865270" alt="No Promises — Shayne Ward" width="350" /></a>
+  <a href="https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43384378375" alt="Thức Giấc — Da LAB" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=Wbo-ZScnEEw"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43384378375" alt="Quang Vinh - Nếu Lúc Trước Em Đừng Tới (Greatest Hits/ The Memories) — Quang Vinh" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
