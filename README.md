@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=43942809023" alt="Unity — TheFatRat" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=7jQipab-Ddc"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=43942809023" alt="THIEN DANG — Wowy" width="350" /></a>
+  <a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44004503867" alt="Unity — TheFatRat" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44004503867" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
