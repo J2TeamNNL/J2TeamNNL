@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6C5H6rqeolq4qQF08ua1VH"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44163642421" alt="Watching You Breathe — Jacoo" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44163642421" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
+  <a href="https://open.spotify.com/track/7uTZbLZrF3gqyMdQ7p9XeG"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44221284498" alt="Melody — Lost Frequencies" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44221284498" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
