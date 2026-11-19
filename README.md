@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/2uS1jwq43wvRw23Sm71j6J"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44579328647" alt="New Soul — Vox Angeli" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44579328647" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
+  <a href="https://open.spotify.com/track/2uS1jwq43wvRw23Sm71j6J"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44640913246" alt="New Soul — Vox Angeli" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44640913246" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
