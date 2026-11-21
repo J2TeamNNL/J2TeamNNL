@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44827780527" alt="Angeleyes — ABBA" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=JvGxKnEP3J8"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44827780527" alt="A thousand years ( Guitar đệm Cover TungTic ) — Tùng Acoustic" width="350" /></a>
+  <a href="https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=44860298688" alt="Angeleyes — ABBA" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=44860298688" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
