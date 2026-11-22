@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6YSY9QfbuWT0Vawykai11B"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=45018432243" alt="Cô Bé Mùa Đông — Trung Quân" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=N4KUceJlcVk"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=45018432243" alt="Như Một Giấc Mơ - Mỹ Tâm | Lân Nhã Cover「MV Lyrics」 — Lân Nhã" width="350" /></a>
+  <a href="https://open.spotify.com/track/6YSY9QfbuWT0Vawykai11B"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=45056302511" alt="Cô Bé Mùa Đông — Trung Quân" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=N4KUceJlcVk"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=45056302511" alt="Như Một Giấc Mơ - Mỹ Tâm | Lân Nhã Cover「MV Lyrics」 — Lân Nhã" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
