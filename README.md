@@ -8,8 +8,8 @@ Senior Software Engineer working on production systems, AI integration, and engi
 
 <!-- NOW_PLAYING:START -->
 <p>
-  <a href="https://open.spotify.com/track/6YSY9QfbuWT0Vawykai11B"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=45122770051" alt="Cô Bé Mùa Đông — Trung Quân" width="350" /></a>
-  <a href="https://music.youtube.com/watch?v=Wa_kndPzFQM"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=45122770051" alt="Dáng Em — Nguyễn Phi Hùng" width="350" /></a>
+  <a href="https://open.spotify.com/track/6YSY9QfbuWT0Vawykai11B"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-spotify.svg?t=45238528568" alt="Cô Bé Mùa Đông — Trung Quân" width="350" /></a>
+  <a href="https://music.youtube.com/watch?v=zzQybw837yY"><img src="https://raw.githubusercontent.com/J2TeamNNL/J2TeamNNL/master/assets/now-playing-youtube.svg?t=45238528568" alt="Relaxing Sleep Music: Soft Piano Music, Fall Asleep, Spa Music, Sleeping Music ★100 — Soothing Relaxation" width="350" /></a>
 </p>
 <!-- NOW_PLAYING:END -->
 
